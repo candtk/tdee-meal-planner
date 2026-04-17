@@ -1,6 +1,6 @@
 # TDEE Meal Planner
 
-![App preview](preview.png)
+<img src="preview.png" width="320" />
 
 A personalised meal plan generator built around the **Mifflin-St Jeor TDEE equation**. Enter your stats and activity level, and the app calculates your daily calorie target and assembles a randomised meal plan split across up to four meal slots — served through a clean Tailwind CSS web interface backed by a Flask API.
 
